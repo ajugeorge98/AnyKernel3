@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=4.19 Kernel with KernelSU for Asus Zenfone Max Pro M1
+kernel.string=4.4 Kernel with KernelSU for Asus Zenfone Max Pro M1
 do.devicecheck=1
 do.modules=0
 do.systemless=1
